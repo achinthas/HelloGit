@@ -1,12 +1,5 @@
 <?php
-/**
- * Gets the email message from the user's mailbox to add as
- * a WordPress post. Mailbox connection information must be
- * configured under Settings > Writing
- *
- * @package WordPress
- */
-
+//Test 1
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require(dirname(__FILE__) . '/wp-load.php');
 
