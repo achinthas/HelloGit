@@ -1,5 +1,6 @@
 <?php
 /**
+ * //Test wwww
  * Handle Trackbacks and Pingbacks sent to WordPress
  *
  * @package WordPress

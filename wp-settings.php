@@ -1,5 +1,5 @@
 <?php
-/**
+/** //Test 2
  * Used to set up and fix common variables and include
  * the WordPress procedural and class library.
  *
